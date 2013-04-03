@@ -9,9 +9,11 @@ set grid
 #use this to move the key if necessary
 #set key at 0.05,-0.2
 
-set autoscale y2fixmin
+# output to file
+set terminal pngcairo size 640,400 enhanced color
+set output 'fig-stonyman-power.png'
+#set terminal epslatex size 640,400 color
+#set output 'fig-stonyman-power.tex'
+
 plot [0.03:0.53] "./powerprofiles_5v0.csv" every 100 u ($1+0.138):(((($2/101)/43) * 5)*1000) with lines title "5.0V",\
                  "./powerprofiles_3v3.csv" every 100 u ($1+0.338):(((($2/101)/43) * 3.3)*1000) with lines title "3.3V"
-
-# wait for user input
-pause -1
