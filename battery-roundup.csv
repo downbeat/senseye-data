@@ -1,0 +1,17 @@
+Battery;Weight (g);Capacity (mAh);Voltage;Approximate Capacity (J);Energy Density (J/g);Link
+Panasonic ML614S 3.4 mAh;0.16;3.4;3;36.72;229.5;http://panasonic.com/industrial/includes/pdf/Panasonic_Lithium_ML614S_ML621S.pdf
+Panasonic ML621S 5 mAh;0.23;5;3;54;234.7826086957;http://panasonic.com/industrial/includes/pdf/Panasonic_Lithium_ML614S_ML621S.pdf
+Sparkfun 40 mAh;2;40;3.7;532.8;266.4;https://www.sparkfun.com/products/11316
+Sparkfun 100 mAh;2.65;100;3.7;1332;502.641509434;https://www.sparkfun.com/products/731
+Sparkfun 110 mAh Coincell;6.4;110;3.7;1465.2;228.9375;https://www.sparkfun.com/products/10319
+Renata ICP501233PA 175 mAh;4.2;175;3.7;2331;555;http://www.renata.com/fileadmin/downloads/productsheets/lithium_polymer/ICP501233PA.pdf
+Renata ICP621333PA 240 mAh;5.5;240;3.7;3196.8;581.2363636364;http://www.renata.com/fileadmin/downloads/productsheets/lithium_polymer/ICP621333PA.pdf
+Renata ICP622540PMT 600 mAh;11;600;3.7;7992;726.5454545455;http://www.renata.com/fileadmin/downloads/productsheets/lithium_polymer/ICP622540PMT.pdf
+Trustfire 10440 600 mAh;11;600;3.7;7992;726.5454545455;http://www.trustfire.com/en/2x-rechargeable-600mah-lithium-tf10440-3-7.html
+Tenergy Li-Po 680 mAh (603040);13;680;3.7;9057.6;696.7384615385;http://www.all-battery.com/TenergyLi-Polymer3.7V680mAh603040Battery-30191-0.aspx
+Sparkfun 850 mAh;18.5;850;3.7;11322;612;https://www.sparkfun.com/products/341
+Sparkfun 1000 mAh;22;1000;3.7;13320;605.4545454545;https://www.sparkfun.com/products/339
+Tenergy Li-ion 17500 1100 mAh;29.5;1100;3.7;14652;496.6779661017;http://www.all-battery.com/Li-ionBattery175003.7V1100mAhwithMolex510212-PinConnector-30177.aspx
+Renata ICP543759PMT 1320 mAh;26;1320;3.7;17582.4;676.2461538462;http://www.renata.com/fileadmin/downloads/productsheets/lithium_polymer/ICP543759PMT.pdf
+Sparkfun 2000 mAh;36;2000;3.7;26640;740;https://www.sparkfun.com/products/11238
+Renata ICP606168PRT 2800 mAh;70;2800;3.7;37296;532.8;http://www.renata.com/fileadmin/downloads/productsheets/lithium_polymer/ICP606168PRT.pdf
